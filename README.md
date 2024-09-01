@@ -36,7 +36,7 @@ Each technique is implemented in a separate module, with detailed comments expla
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tawrid/windows-process-injection.git
+   git clone https://github.com/tawrid/windows_process_injection.git
 
 2. Open the solution file in Visual Studio.
 3. Build the solution using the appropriate configuration (Debug/Release).
